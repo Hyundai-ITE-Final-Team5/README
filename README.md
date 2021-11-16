@@ -254,3 +254,31 @@ ___
 
 - 상품분석
 - 매출분석
+
+
+
+___
+
+
+
+# DB 모델링
+
+
+
+## MEMBER
+
+![](README.assets/MEMBER.PNG)
+
+
+
+## PRODUCT
+
+![](README.assets/PRODUCT.PNG)
+
+
+
+
+
+## ORDER
+
+![](README.assets/ORDER.PNG)
